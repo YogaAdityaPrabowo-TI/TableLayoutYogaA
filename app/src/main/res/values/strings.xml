@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TableLayoutYogaA</string>
+    <string name="loginFrom">Login From</string>
+    <string name="tUsername">User Name</string>
+    <string name="tPassword">Password</string>
+    <string name="login">Login</string>
+    <string name="tlogo">Icon Login</string>
+</resources>
